@@ -2,5 +2,3 @@ Hey World
 
 I am adding new text and deleting text
 
-Following the workshop, I will definitely have to explore some new repos
-Will try to create my own repo 
